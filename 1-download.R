@@ -2,9 +2,9 @@
 library(lubridate)
 
 source <- c(
-  "ftp://ftp.fec.gov/FEC/2012/indiv12.zip",
-  "ftp://ftp.fec.gov/FEC/2014/cn14.zip",
-  "ftp://ftp.fec.gov/FEC/2014/cm14.zip"
+  "ftp://ftp.fec.gov/FEC/2016/indiv16.zip",
+  "ftp://ftp.fec.gov/FEC/2016/cn16.zip",
+  "ftp://ftp.fec.gov/FEC/2016/cm16.zip"
 )
 target <- basename(source)
 
